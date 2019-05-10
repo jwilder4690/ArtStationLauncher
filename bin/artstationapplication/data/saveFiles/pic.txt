@@ -1,0 +1,2 @@
+900,900,-263191,10
+Picture;C:/Users/wilder4690/Pictures/Peter-Pan-icon.png,0,0.0,0.0,0.0,0.0,1.0,0,902.4819&901.9371,Picture
